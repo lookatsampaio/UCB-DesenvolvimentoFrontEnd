@@ -1,5 +1,5 @@
 # UCB-DesenvolvimentoFrontEnd
-Algoritmo e Programação Estruturada com o professor Iran na Universidade Católica de Brasília durante o primeiro semestre de 2023
+Desenvolvimento Front-End com o professor Iran na Universidade Católica de Brasília durante o primeiro semestre de 2023
 
 Todos os códigos aqui presentes fazem parte das aulas, estudos e avaliações de Desenvolvimento Front-End com o professor Iran na Universidade Católica de Brasília.
 
